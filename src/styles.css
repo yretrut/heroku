@@ -1,0 +1,66 @@
+body {
+  background-color: yellow;
+}
+
+.App {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.header {
+  padding: 15px;
+  background-color: blue;
+  text-transform: uppercase;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.header a {
+  margin-right: 30px;
+  color: yellow;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: yellow;
+}
+
+.header a:active {
+  margin-right: 30px;
+  color: yellow;
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  background: yellow;
+  color: blue;
+  height: 40px;
+  width: 90px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-transform: uppercase;
+  border-radius: 10px;
+}
+
+.form {
+  margin-top: 10px;
+}
+
+input {
+  margin: 10px 0px 10px;
+  height: 25px;
+  border: none;
+  border-bottom: 1px solid blue;
+  outline: none;
+  background-color: rgb(255, 255, 255);
+  border-radius: 7px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.mainPage {
+  margin-top: 20px;
+}
+
+.aboba {
+  background-color: blue;
+  color: yellow;
+}
